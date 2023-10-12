@@ -1,3 +1,7 @@
+#Python script to execute the Nested object key challenge 
+
+
+
 def get_nested_value(obj, key):
     try:
         for k in key.split('/'):
